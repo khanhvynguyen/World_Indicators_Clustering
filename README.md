@@ -10,3 +10,5 @@ The objective of this project is to implement different clustering methods to sy
 - Applied K-means and hierarchical clustering methods to group similar countries together
 - Used Internal validation metrics to report the cluster quality
 - Conducted experiments to find appropriate numbers of clusters by using  Silhouette analysis and Elbow method
+
+Jupiter Notebook: 
