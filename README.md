@@ -11,4 +11,4 @@ The objective of this project is to implement different clustering methods to sy
 - Used Internal validation metrics to report the cluster quality
 - Conducted experiments to find appropriate numbers of clusters by using  Silhouette analysis and Elbow method
 
-Jupiter Notebook: 
+Jupiter Notebook: https://github.com/khanhvynguyen/World_Indicators_Clustering/blob/main/world_indicators.ipynb
